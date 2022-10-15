@@ -48,7 +48,7 @@ export default {
           this.$refs.addItemForm.resetFields()
         }
       })
-    },
+    }
   }
 }
 </script>
